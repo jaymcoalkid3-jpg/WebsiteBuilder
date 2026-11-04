@@ -1,0 +1,11 @@
+{
+  "title": "Aragon Custom Cues",
+  "description": "Provides a streamlined platform for creating and managing websites, enabling users to build professional online presences with ease and efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
